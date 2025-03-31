@@ -1,0 +1,17 @@
+
+html, body {
+	padding: 0;
+	margin: 0;
+	background-color: #1F242E;
+	color: #FFFFFF;
+	font-family: "Roboto", sans-serif;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+* {
+	box-sizing: border-box;
+}
